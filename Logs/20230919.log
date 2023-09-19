@@ -1,0 +1,118 @@
+0	04:42:59.453	Automated trading enabled
+0	04:44:21.978	Automated trading disabled
+3	04:44:21.978	Automated trading disabled because profile has been changed
+0	08:01:24.426	Compiling '1MA_CCI_DCA_MINHNHAT'
+0	08:01:24.426	Compiling '1MA_LenhNguoc_DCA'
+0	08:01:24.426	Compiling '1MA_MInhNhat'
+0	08:01:24.426	Compiling '1MA_RSI_DCA_MinhNHat'
+0	08:01:24.426	Compiling '1MA_VaoLenhNguoc'
+0	08:01:24.426	Compiling '2ema_GiaoCat'
+0	08:01:24.426	Compiling '4MA_4Lenh_AQuang'
+0	08:01:24.426	Compiling '4MA_AQuang'
+0	08:01:24.426	Compiling 'AnhTinh_FullMargin Final'
+0	08:01:24.426	Compiling 'BanTuDong_Martingel_Tung'
+0	08:01:24.426	Compiling 'BB_DongNenXanh_Dung'
+0	08:01:24.426	Compiling 'BB_gapthep_Dung'
+0	08:01:24.426	Compiling 'BB_Quang'
+0	08:01:24.426	Compiling 'BB_RSI_Custom_Indicator'
+0	08:01:24.426	Compiling 'BotDanh6CapTien_Martingel'
+0	08:01:24.426	Compiling 'BotDanh6CapTien_Martingel_Buy'
+0	08:01:24.426	Compiling 'BotDanh6CapTien_Martingel_Sell'
+0	08:01:24.426	Compiling 'BotDanh6CapTien_Thai'
+0	08:01:24.426	Compiling 'BotGapThem_HoangQuangManh'
+0	08:01:24.426	Compiling 'Bot_Luoi'
+0	08:01:24.426	Compiling 'Break_In_Time_AnhDo'
+0	08:01:24.426	Compiling 'Buy_sell_gold'
+0	08:01:24.426	Compiling 'Cop mang_Anh Tung'
+0	08:01:24.426	Compiling 'DanhTheoNen'
+0	08:01:24.426	Compiling 'DCA_BreakOut_Thien'
+0	08:01:24.426	Compiling 'DCA_LenhMoi'
+0	08:01:24.426	Compiling 'DongTatCaCaLenh'
+0	08:01:24.426	Compiling 'EA BAN TU DONG'
+0	08:01:24.426	Compiling 'EA_SuperTrend_PREMIUM'
+0	08:01:24.426	Compiling 'FullMargin_V4_Nguoc'
+0	08:01:24.426	Compiling 'Martingel_BOTGAPThep_Hedge'
+0	08:01:24.426	Compiling 'Martingel_BOTGAPThep_V2'
+0	08:01:24.426	Compiling 'Martingel_Buy_Sell_HaiDang'
+0	08:01:24.426	Compiling 'Martingel_Buy_Sell_Luoi'
+0	08:01:24.426	Compiling 'Martingel_SuperTrend_V3_4TF_Volume'
+0	08:01:24.426	Compiling 'Martingel_SuperTrend_V3_EMA'
+0	08:01:24.426	Compiling 'Martinggel_NhanLenhMoi'
+0	08:01:24.426	Compiling 'Matingel_Buy_Sell_DanXen_ALinh'
+0	08:01:24.426	Compiling 'MessageToChannelTelegram'
+0	08:01:24.426	Compiling 'Quang_BB_4EMA'
+0	08:01:24.426	Compiling 'Qunag_BB_DaKhungTF'
+0	08:01:24.426	Compiling 'Signal_From_Chanel'
+0	08:01:24.426	Compiling 'Telegram_DucQuy'
+0	08:01:24.426	Compiling 'test'
+0	08:01:24.426	Compiling 'test2'
+0	08:01:24.426	Compiling 'BB_ANhTai'
+0	08:01:24.426	Compiling 'Magtingel_KhoangGia'
+0	08:01:24.426	Compiling '1.TapHopCacHamCanDUng'
+0	08:01:24.426	Compiling 'BotTinhVolume'
+0	08:01:24.426	Compiling 'BotTinhVolume_Vi'
+0	08:01:24.426	Compiling 'DCA_LenhMoi'
+0	08:01:24.426	Compiling 'EA_Manager_Socket'
+0	08:01:24.426	Compiling 'EA_Server_Socket'
+0	08:01:24.426	Compiling '1MA_Cuong_VaoLenhNguoc_DCA'
+0	08:01:24.426	Compiling 'Bot_Volume'
+0	08:01:24.426	Compiling 'Bot_Volume_V.0.1'
+0	08:01:24.426	Compiling 'Bot_Volume_V0.2_NenThamChieu'
+0	08:01:24.426	Compiling 'BB_CoGiaoDien_NhieuLenh_XUHuongLon'
+0	08:01:24.426	Compiling 'BB_KhongGiaoDien_NhieuLenh_XuHuongLon'
+0	08:01:44.213	Compiling 'Accelerator'
+0	08:01:44.214	Compiling 'Accumulation'
+0	08:01:44.214	Compiling 'Alligator'
+0	08:01:44.214	Compiling 'ATR'
+0	08:01:44.214	Compiling 'Awesome'
+0	08:01:44.214	Compiling 'Bands'
+0	08:01:44.214	Compiling 'BandSongSongBB'
+0	08:01:44.214	Compiling 'Bears'
+0	08:01:44.214	Compiling 'Bulls'
+0	08:01:44.214	Compiling 'CCI'
+0	08:01:44.214	Compiling 'Heiken Ashi'
+0	08:01:44.214	Compiling 'Ichimoku'
+0	08:01:44.214	Compiling 'iExposure'
+0	08:01:44.214	Compiling 'Indicator_Client_Socket'
+0	08:01:44.214	Compiling 'Linear Regression'
+0	08:01:44.214	Compiling 'Linear_Regression_Line'
+0	08:01:44.214	Compiling 'MACD'
+0	08:01:44.214	Compiling 'MAXPanel'
+0	08:01:44.214	Compiling 'Momentum'
+0	08:01:44.214	Compiling 'OsMA'
+0	08:01:44.215	Compiling 'PinbarPanel'
+0	08:01:44.215	Compiling 'RSI'
+0	08:01:44.215	Compiling 'RSI_BB'
+0	08:01:44.215	Compiling 'Stochastic'
+0	08:01:44.215	Compiling 'TradersDynamicIndex'
+0	08:01:44.215	Compiling 'TrendSignal 2.31 mtf'
+0	08:01:44.215	Compiling 'TrendSignal Histo'
+0	08:01:44.215	Compiling 'ZigZag'
+0	08:01:44.215	Compiling 'TF-Slicer'
+0	08:01:44.215	Compiling 'xSuperTrend Candles'
+0	08:01:44.215	Compiling 'xSuperTrend MTF'
+0	08:01:44.215	Compiling 'xSuperTrend Tape MTF'
+0	08:01:44.215	Compiling 'xSuperTrend Tape'
+0	08:01:44.215	Compiling 'xSuperTrend'
+0	08:03:37.470	Automated trading enabled
+0	08:06:25.062	Compiling 'DCA_BreakOut_Thien'
+0	08:06:33.842	Expert DCA_BreakOut_Thien XAUUSD,H4: loaded successfully
+0	08:06:41.500	DCA_BreakOut_Thien XAUUSD,H4 inputs: inpKhoiLuong=0.01; inpKhoangCachVaoLenh=10; inpSpreadToiDa=50; inpStartTime=13.0; inpEndTime=23.0; inpChoPhepDongTatCaLenhKhiHetGio=true; inpSlippage=50; inpMagicNumber=123; 
+0	08:06:41.529	DCA_BreakOut_Thien XAUUSD,H4: initialized
+0	08:06:41.770	DCA_BreakOut_Thien XAUUSD,H4: 2023.09.19 08:06:41
+0	08:06:43.492	DCA_BreakOut_Thien XAUUSD,H4: 2023.09.19 08:06:43
+0	08:06:44.310	DCA_BreakOut_Thien XAUUSD,H4: 2023.09.19 08:06:44
+0	08:06:44.626	DCA_BreakOut_Thien XAUUSD,H4: 2023.09.19 08:06:44
+0	08:06:45.081	DCA_BreakOut_Thien XAUUSD,H4: 2023.09.19 08:06:45
+0	08:06:47.690	DCA_BreakOut_Thien XAUUSD,H4: 2023.09.19 08:06:47
+0	08:06:47.869	DCA_BreakOut_Thien XAUUSD,H4: 2023.09.19 08:06:47
+0	08:06:49.227	DCA_BreakOut_Thien XAUUSD,H4: 2023.09.19 08:06:49
+0	08:06:51.504	DCA_BreakOut_Thien XAUUSD,H4: 2023.09.19 08:06:51
+0	08:06:51.868	DCA_BreakOut_Thien XAUUSD,H4: 2023.09.19 08:06:51
+0	08:06:53.712	DCA_BreakOut_Thien XAUUSD,H4: 2023.09.19 08:06:53
+0	08:06:53.975	DCA_BreakOut_Thien XAUUSD,H4: 2023.09.19 08:06:53
+0	08:06:54.678	DCA_BreakOut_Thien XAUUSD,H4: 2023.09.19 08:06:54
+0	08:06:55.317	DCA_BreakOut_Thien XAUUSD,H4: 2023.09.19 08:06:55
+0	08:06:56.321	DCA_BreakOut_Thien XAUUSD,H4: 2023.09.19 08:06:56
+0	08:06:56.885	DCA_BreakOut_Thien XAUUSD,H4: uninit reason 1
+0	08:06:56.901	Expert DCA_BreakOut_Thien XAUUSD,H4: removed
