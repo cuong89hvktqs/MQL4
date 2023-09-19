@@ -43,7 +43,7 @@ void OnDeinit(const int reason)
 void OnTick()
 {
 
-   
+   Print("Do may lam duoc nhu tao");
 }
 //**********************************************************************************************************
 
